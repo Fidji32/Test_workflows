@@ -27,4 +27,4 @@ jobs:
         node-version: ${{ matrix.node-version }}
         cache: 'npm'
     - run: npm test
-      working-directory: /home/runner/work/Test_workflows/Test_workflows/backend
+      working-directory: /home/runner/work/Test_workflows/Test_workflows/projet/backend/
