@@ -1,0 +1,20 @@
+{
+  "name": "test_workflow",
+  "version": "1.0.0",
+  "description": "Test workflows on Github",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "mocha test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fidji32/Test_workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fidji32/Test_workflow/issues"
+  },
+  "homepage": "https://github.com/Fidji32/Test_workflow#readme"
+}
