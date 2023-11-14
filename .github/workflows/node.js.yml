@@ -28,4 +28,3 @@ jobs:
         cache: 'npm'
     - run: npm install mocha
     - run: npm test
-      working-directory: /home/runner/work/Test_workflows/Test_workflows/projet/backend/
